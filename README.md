@@ -2,7 +2,17 @@
 
 ConnectOS | CYD Port (Alpha)
 
-IMG_1265.jpeg
+
+<p align="center">
+  <img src="IMG_1265.jpeg" alt="Esp32 CYD running ConnectOS" width="400">
+</p>
+
+<p align="center">
+  <strong>Connect Gen1 — ConnectOS</strong>
+  <br>
+  An Alpha 0.9 port of the ConnectOS, designed for the ESP32 CYD (Cheap Yellow Display).
+</p>
+
 
 ConnectOS is the original operating-system-style interface designed for the ESP32-S3 version of the project. It is not a generic embedded dashboard or a single launcher screen, but a compact, touch-first desktop and phone-like environment with its own recognizable identity.
 
