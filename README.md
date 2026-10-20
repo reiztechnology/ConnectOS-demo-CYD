@@ -2,7 +2,7 @@
 
 ConnectOS | CYD Port (Alpha)
 
-![ConnectOS](images/connectos.png)
+![ConnectOS](images/IMG_1265.jpeg)
 
 ConnectOS is the original operating-system-style interface designed for the ESP32-S3 version of the project. It is not a generic embedded dashboard or a single launcher screen, but a compact, touch-first desktop and phone-like environment with its own recognizable identity.
 
