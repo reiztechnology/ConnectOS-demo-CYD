@@ -1,0 +1,123 @@
+ConnectOS Demo License, version alpha 0.9
+
+Copyright (c) 2026 ReiZ Tech. All rights reserved, except as expressly permitted below.
+
+This is a source-available licence, not an open-source licence. It allows people to view the ConnectOS Demo repository on GitHub, but does not grant general permission to copy, modify, redistribute, sell or publish the project or its contents. All rights not expressly granted by this licence remain with ReiZ Tech.
+
+0. DEFINITIONS
+
+"ConnectOS Demo" means the software project published under this licence, including its source code, interface, design, graphics, icons, animations, documentation, and other original materials included in the repository.
+
+"Original Materials" means all code, designs, assets, names, logos, visual elements and other content created for ConnectOS Demo by ReiZ Tech, excluding third-party components.
+
+"Copy" means any reproduction of all or part of ConnectOS Demo, whether in source code, compiled form, modified form, screenshots, assets or another format.
+
+"Distribute" means to provide, publish, upload, share, sell, transfer or otherwise make a copy available to another person, including through a website, repository or download link.
+
+"Derived Work" means a project or other material based on, incorporating, or containing all or part of ConnectOS Demo or its Original Materials.
+
+"Written Permission" means explicit permission granted by ReiZ Tech in a written form that can be retained as a record.
+
+1. OWNERSHIP
+
+(a) ConnectOS Demo and its Original Materials are owned by ReiZ Tech, unless a specific component states otherwise.
+
+(b) Publishing the repository publicly does not transfer ownership of the project or grant rights beyond those expressly stated in this licence.
+
+(c) All copyrights and other rights in the Original Materials are reserved by ReiZ Tech, subject to applicable law.
+
+(d) Nothing in this licence transfers ownership of ConnectOS Demo to a user, contributor or third party.
+
+2. WHAT YOU MAY DO
+
+Subject to the conditions in section 3, you may:
+
+(a) View and read the publicly available repository.
+
+(b) Study the project to understand how it works.
+
+(c) Reference the project when discussing ConnectOS Demo, provided you do not reproduce protected materials beyond what applicable law permits.
+
+(d) Contact ReiZ Tech to request permission for other uses.
+
+These permissions do not grant a general right to copy, modify, distribute or republish the project.
+
+3. CONDITIONS AND RESTRICTIONS
+
+(a) No unauthorised copying. You may not reproduce, copy or reuse the source code, interface, graphics, icons, animations, documentation or other Original Materials without Written Permission, except where applicable law permits otherwise.
+
+(b) No unauthorised modifications or forks. You may not publish or distribute modified versions, forks, ports or Derived Works containing ConnectOS Demo or its Original Materials without Written Permission.
+
+(c) No redistribution. You may not upload, mirror, bundle, republish or provide copies of ConnectOS Demo or its Original Materials through another repository, website, application, package or download service without Written Permission.
+
+(d) No commercial use without permission. You may not sell, rent, sublicense or commercially exploit ConnectOS Demo or its Original Materials without Written Permission, except where applicable law provides otherwise.
+
+(e) No claiming ownership. You may not claim that ConnectOS Demo or its Original Materials were created by you or another party when they were created by ReiZ Tech.
+
+(f) No misleading attribution. You may not imply that ReiZ Tech endorses, sponsors or officially supports your project without permission.
+
+(g) No removal of notices. You may not remove or conceal copyright notices or licence information from authorised copies of the project.
+
+(h) No trademark rights. This licence does not grant permission to use the ReiZ Tech name, ConnectOS Demo name, logos or other branding in a way that suggests ownership, endorsement or official affiliation.
+
+4. CONTRIBUTIONS
+
+(a) Contributions submitted to the ConnectOS Demo repository remain subject to the terms agreed upon by the contributor and ReiZ Tech.
+
+(b) By submitting a contribution, you confirm that you have the right to submit it and that it does not knowingly infringe another party's rights.
+
+(c) Unless a separate written agreement states otherwise, submitting a contribution does not automatically transfer ownership of your original work to ReiZ Tech or grant ReiZ Tech unrestricted rights to redistribute it.
+
+(d) ReiZ Tech may decline, remove or request changes to contributions, subject to applicable law and the rules of the platform hosting the repository.
+
+5. THIRD-PARTY COMPONENTS
+
+(a) ConnectOS Demo may include third-party libraries, tools, fonts, graphics or other resources.
+
+(b) Those components remain subject to their respective licences and belong to their respective owners.
+
+(c) This licence does not override third-party licences or restrict rights granted by them.
+
+(d) If a third-party component has licence terms that differ from this document, the applicable terms for that component govern its use.
+
+6. NO AFFILIATION OR ENDORSEMENT
+
+ConnectOS Demo is a ReiZ Tech project. Unless explicitly stated otherwise, it is not affiliated with, authorised by or endorsed by any third-party company, hardware manufacturer or software developer.
+
+All third-party names, trademarks and logos remain the property of their respective owners. Their appearance in the project does not imply endorsement or a transfer of rights.
+
+7. TERMINATION OF PERMISSION
+
+(a) Any permission granted under this licence may be terminated if you materially violate its terms, subject to applicable law.
+
+(b) Following termination, you must stop the activities that are no longer authorised and cease distributing affected materials where legally required.
+
+(c) ReiZ Tech may restore permission through Written Permission.
+
+(d) This section does not remove any rights or remedies available under applicable law.
+
+8. NO WARRANTY
+
+CONNECTOS DEMO IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+
+REIZ TECH DOES NOT GUARANTEE THAT CONNECTOS DEMO WILL BE ERROR-FREE, AVAILABLE AT ALL TIMES, COMPATIBLE WITH EVERY DEVICE OR SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, REIZ TECH SHALL NOT BE LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE CONNECTOS DEMO.
+
+9. CHANGES TO THIS LICENCE
+
+ReiZ Tech may publish new versions of this licence for future distributions of ConnectOS Demo.
+
+Unless expressly stated otherwise, a new version does not automatically replace the licence governing copies previously distributed under an earlier version.
+
+10. RESERVED RIGHTS
+
+Any right not expressly granted by this licence remains reserved by ReiZ Tech.
+
+For permissions or questions about this licence, contact ReiZ Tech through the official project repository or an official contact channel published by ReiZ Tech.
+
+© 2026 ReiZ Tech. All rights reserved.
+
+LICENCE SUMMARY
+
+ConnectOS Demo may be viewed publicly on GitHub. Copying, modifying, redistributing, republishing or commercially using the project requires prior Written Permission, except where applicable law permits otherwise. Third-party components remain subject to their own licences.
